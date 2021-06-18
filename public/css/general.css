@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+    font-family: 'Roboto';
+}
+p,h2{
+    font-size: 12px;
+}
+li,a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}

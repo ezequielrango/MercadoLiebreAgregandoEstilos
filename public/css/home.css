@@ -1,0 +1,130 @@
+
+body{
+    background-color:  #ebebeb;
+    width: 100%;
+
+}
+
+
+
+
+    /*                    HEADER                    */
+
+
+
+
+form{
+    border-radius: 2px;
+    margin: 2px;
+    color: #ebebeb;
+}
+#search{
+    margin: 2px;
+    padding-left: 1px;
+    color:#666;
+}
+header img{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+header{
+    background-color:#EAC926 ;
+    width: 100%;
+}
+header .firstUl, .secondUl {
+    margin: 8px 8px 8px 0;
+    font-size: 16px;
+}
+
+#icon{
+    margin-left: 5px;
+}
+
+header form{
+   margin-left: 30px ;
+   margin-top: 15px; 
+}
+
+header h2{
+    padding: 20px 10px;
+    text-align: center;
+}
+.burgermenu{
+    padding: 10px;
+    display: inline-block;
+    margin: 4px 4px 10px 155px;
+    border-radius: 10px;
+    background-color: #1259c3;
+    color: #ffffff;
+    
+}
+.banner{
+    width: 100%;
+}
+
+
+
+
+
+    /*                    MAIN                    */
+
+
+
+
+.description{
+    font-size: 16px;
+    text-align: center;
+    padding: 7px 0;
+    margin-bottom: 40px;
+}
+.offer{
+    font-size: 24px ;
+    margin: 20px 0;
+    text-align: center;
+}
+.price{
+    font-size: 18px;
+    text-align: center;
+    padding: 3px;
+}
+.discount{
+    
+    color:  #39b54a;
+    font-size: 16px ;
+    text-align: center;
+}
+.product{
+    margin:12px ;
+    width:92%;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+    /*                    FOOTER                    */
+
+
+
+
+footer{
+    color:  #666;
+    margin-top: 30px;
+    background-color: white;
+}
+footer article{
+    text-align: center;
+    margin-bottom: 30px;
+}
+footer article i{
+    font-size: 2em;
+    color:  #1259c3;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer p{
+    margin-bottom: 10px ;
+}
